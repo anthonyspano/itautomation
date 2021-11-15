@@ -1,0 +1,13 @@
+Google course:
+troubleshooting and debugging techniques
+git and github
+using python to interact with the OS
+automating real-world tasks with python
+
+
+configuration management:
+troubleshooting web server linux services
+automate VM deployment with google cloud platform
+configuring puppet host and client servers
+send post requests to a django rest server using bash
+systematically filter information using regex
