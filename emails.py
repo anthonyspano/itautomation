@@ -1,3 +1,4 @@
+# reference: https://kb.synology.com/en-ca/SRM/tutorial/How_to_use_Gmail_SMTP_server_to_send_emails_for_SRM
 #creating message
 from email.message import EmailMessage
 message = EmailMessage()
